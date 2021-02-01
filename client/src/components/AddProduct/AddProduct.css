@@ -1,0 +1,21 @@
+input#input__add__product__form {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.textarea__container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  resize: none !important;
+}
+
+div.container__more__details textarea {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  resize: none;
+}
+
+span.publicar__button {
+  margin-top: 10px;
+}

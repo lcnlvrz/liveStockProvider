@@ -1,0 +1,35 @@
+div.one__option h3 {
+  position: absolute;
+  color: white;
+  z-index: 100;
+  font-size: 35px;
+  text-shadow: 0 0 3px black;
+}
+
+div.one__option h3:hover {
+  cursor: pointer;
+}
+
+div.one__option img {
+  filter: blur(1px);
+}
+
+div.one__option {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.one__option img {
+  width: 100%;
+}
+
+div.one__option a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.makeStyles-root-25 {
+  margin: 0px !important;
+}

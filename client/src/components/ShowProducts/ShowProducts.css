@@ -1,0 +1,62 @@
+div.show__products__container input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+div.search__products {
+  display: flex;
+  margin: 20px 20px;
+  justify-content: center;
+}
+
+div.search__products input {
+  text-align: left;
+}
+
+div#image__card {
+  background-size: contain;
+}
+
+div.one__card {
+  width: 150px;
+  height: 290px;
+}
+
+div.one__card h3 {
+  line-height: 18px;
+  text-align: center;
+  font-weight: 600;
+}
+
+div.one__card {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+div.one__card span {
+  font-size: 10px;
+  text-align: right;
+}
+
+svg#arrow__icon {
+  font-size: 13px;
+}
+
+div.show__more__details:hover {
+  cursor: pointer;
+}
+
+div.show__more__details {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+a#link__to__more__details {
+  text-decoration: none;
+  display: flex;
+}

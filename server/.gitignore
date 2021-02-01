@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+#Sensitive Data
+.env
+.env.example
+.env.local
+.env.staging
+.config.js
